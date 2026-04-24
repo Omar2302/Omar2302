@@ -48,8 +48,7 @@ Bharati Vidyapeeth College of Engineering, Pune, India
 ## 📜 Certifications
 
 - 🐍 Python Programming — IIT Bombay (Spoken Tutorial)  
-  🔗 [View Certificate](file:///C:/Users/omara/Downloads/OMAR-AHMED-Participant-Certificate.pdf)
-
+  🔗 [View Certificate](https://spoken-tutorial.org/software-training/test/participant/certificate/169438/4679407/)
 - 🔐 Cyber Security Fundamentals — Udemy  
   🔗 [View Certificate](file:///C:/Users/omara/Downloads/cs%20certificatee.pdf)
 
