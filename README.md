@@ -50,7 +50,7 @@ Bharati Vidyapeeth College of Engineering, Pune, India
 - 🐍 Python Programming — IIT Bombay (Spoken Tutorial)  
   🔗 [View Certificate](https://spoken-tutorial.org/software-training/test/participant/certificate/169438/4679407/)
 - 🔐 Cyber Security Fundamentals — Udemy  
-  🔗 [View Certificate](file:///C:/Users/omara/Downloads/cs%20certificatee.pdf)
+  🔗 [View Certificate](https://www.udemy.com/certificate/UC-1bbf39df-c117-471f-bd58-43e494c43d85/)
 
 ---
 
