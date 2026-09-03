@@ -1,62 +1,117 @@
-# Hi, I'm Omar Ahmed 👋
+# Hi 👋, I'm Omar
 
-🎓 BTech in Electronics & Telecommunication Engineering  
-🔧 IoT & Embedded Systems Developer  
-🚀 Passionate about building real-world hardware + software solutions  
+### Electronics & Telecommunication Engineering Student | Embedded Systems | IoT | Linux & AI Enthusiast
 
----
+I'm a B.Tech Electronics & Telecommunication Engineering student passionate about building practical technology solutions using **Embedded Systems, IoT, Artificial Intelligence, and Linux-based infrastructure**.
 
-## 🎓 Education
-**Bachelor of Technology (BTech)**  
-Electronics & Telecommunication Engineering  
-Bharati Vidyapeeth College of Engineering, Pune, India  
+I enjoy working on projects that combine hardware and software to solve real-world problems.
 
----
-
-## 🛠 Skills & Technologies
-
-### 💻 Programming
-- HTLML
-- Python
-- Embedded C
-
-### 🔌 Embedded & IoT
-- ESP32
-- ARM7 (LPC214x)
-- Sensors & Actuators
-- Serial Communication (UART, SPI, I2C)
-
-### 🧰 Tools
-- Altium Designer 
-- Arduino IDE
-- LTSpice
-- NI Multisim
+- 🔭 Currently working on Embedded Systems & AI-based projects
+- 🌱 Exploring Linux, Server Infrastructure & Cloud Technologies
+- 🤖 Interested in Artificial Intelligence and Local LLM Applications
+- 🛠️ Experience with ESP32, IoT, PCB Design and Python
+- 🎯 Focused on building practical projects and continuously improving my technical skills
 
 ---
 
-## 🚀 Projects
+# 🛠️ Technical Skills
 
-### 🌦 Temperature & Humidity Monitoring System 
-•	Designed and developed an IoT-based temperature and humidity monitoring system using ESP32 and DHT11 sensor.
-•	Implemented a Wi-Fi enabled web server on ESP32 to display real-time sensor data on a browser.
-•	Visualized temperature and humidity values using interactive graphical gauges (Chart.js).
-•	Ensured reliable sensor data acquisition and error handling for failed readings.
-•	Applied embedded systems concepts including sensor interfacing, HTTP communication, and real-time data visualization.
+## Programming
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+## Embedded Systems & IoT
+
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![IoT](https://img.shields.io/badge/Internet_of_Things-007ACC?style=for-the-badge)
+
+## Tools & Technologies
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Altium Designer](https://img.shields.io/badge/Altium_Designer-A5915F?style=for-the-badge)
+
+## AI & Development
+
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ---
 
-## 📜 Certifications
+# 🚀 Featured Projects
 
-- 🔐 Cyber Security Fundamentals — Udemy  
-  🔗 [View Certificate](https://www.udemy.com/certificate/UC-1bbf39df-c117-471f-bd58-43e494c43d85/)
+## 🤖 AI Assistant
+
+A locally hosted AI chatbot built using **Ollama and Python**, designed to interact with users through a web-based interface.
+
+**Technologies:** Python • Flask • Ollama • HTML • CSS • JavaScript
+
+🔗 [View Repository](https://github.com/Omar2302/AI-Assistant)
 
 ---
 
-## 📫 Connect With Me
-- 📧 Email: omarahmed23025@gmail.com  
-- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/omar-ahmed23/) 
+## 🚗 AI-Based Intelligent Vehicle Safety System
+
+An intelligent vehicle safety system designed to detect:
+
+- Driver Drowsiness
+- Alcohol Consumption
+- Vehicle Accidents
+- Emergency Situations
+
+with emergency alert capabilities.
+
+**Technologies:** AI • Embedded Systems • IoT • Sensors
+
+🔗 [View Repository](https://github.com/Omar2302/AI-Vehicle-Safety-System)
 
 ---
 
-## ⚡ Profile Summary
-Electronics & Telecommunication student focused on IoT, embedded systems, and communication systems. Skilled in building practical solutions using microcontrollers, sensors, and PCB design tools.
+## 🌦️ Weather Station
+
+An IoT-based weather monitoring system designed to collect and monitor environmental parameters.
+
+**Technologies:** ESP32 • IoT • Sensors
+
+🔜 Repository coming soon
+
+---
+
+# 📚 Currently Learning
+
+- Advanced Embedded Systems
+- Linux System Administration
+- Server Infrastructure
+- Cloud Computing & OpenStack
+- Artificial Intelligence Applications
+
+---
+
+# 📜 Certifications
+
+- 🐍 Python Programming — Spoken Tutorial, IIT Bombay
+- 🔐 Cyber Security — Udemy
+
+---
+
+# 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Omar2302&show_icons=true&theme=transparent&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Omar2302&theme=transparent&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Omar2302&layout=compact&theme=transparent&hide_border=true)
+
+---
+
+# 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-ahmed23/)
+
+---
+
+⭐ Feel free to explore my repositories and connect with me!
